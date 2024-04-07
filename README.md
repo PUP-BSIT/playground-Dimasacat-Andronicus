@@ -1,1 +1,0 @@
-Change configuration user.name and user.email to dimasacat-andronicus in VS Code
